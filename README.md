@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Henrique
+# 👨🏻‍💻 Henrique Nakanishi
 
 **`Estudante de Ciência da Computação | Futuro Desenvolvedor Full Stack`**
 
@@ -99,19 +99,4 @@ Tenho grande interesse por todo o ecossistema da tecnologia, especialmente desen
 - 🚗 **SmartPark** — Sistema inteligente para gerenciamento de estacionamentos com monitoramento de vagas, dashboard e integração entre front-end e back-end.
 - 🌐 Outros projetos acadêmicos e pessoais voltados para desenvolvimento web e banco de dados.
 
-### 📊 Estatísticas
 
-<p>
-<img
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true"
-/>
-
-<img
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&langs_count=8"
-/>
-
-</p>
